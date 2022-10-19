@@ -3,7 +3,8 @@ Useful links for .NET developers.
 2. Auth -- https://oauthlib.readthedocs.io/en/latest/oauth2/oauth2.html
 3. Owin/Katana -- http://johnatten.com/2015/01/04/asp-net-understanding-owin-katana-and-the-middleware-pipeline/#Requests--Responses--and-Short-Circuiting-the-Middleware-Pipeline
 4. paramter passing in c# - https://jonskeet.uk/csharp/parameters.html
-c# 9 / .net 5 - https://www.youtube.com/watch?v=IhYtXO3DkFs&ab_channel=AndreaAngella
+5. c# 9 / .net 5 - https://www.youtube.com/watch?v=IhYtXO3DkFs&ab_channel=AndreaAngella
+6. oops c# fundametals - https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop
 
 
 
