@@ -9,6 +9,10 @@ Useful links for .NET developers.
 8. .NET core - https://learn.microsoft.com/en-us/dotnet/core/introduction
 
 
+Dependency Injection :
+1. https://blog.ploeh.dk/2014/06/02/captive-dependency/
+2. https://samwalpole.com/using-scoped-services-inside-singletons#comments-list
+
 
 Useful Link for Angular and UI
 1. ngxs - Angular statemanagement -  https://www.youtube.com/playlist?list=PLLhsXdvz0qjJM9eAOXtuA5QqNGqk494Hw
